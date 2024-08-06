@@ -63,4 +63,5 @@ For more details, please refer to the full text of the license in the `LICENSE` 
 ## Contacts
 
 📧 henriquemelo0983@gmail.com
+
 💼 LinkedIn: [Henrique Melo](https://www.linkedin.com/in/henrique-de-oliveira-melo-933a41203/)
