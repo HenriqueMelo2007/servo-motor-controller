@@ -1,22 +1,19 @@
-# Title
+# Servo Motor Controller
 
-![Project Preview](assets/preview.jpg)
+![Project Preview](assets/preview.png)
 
 ## Project Description
 
-Description here! lorem ipsum dolor 
+This Arduino project uses a button to control a 180-degree servo motor. Each time the button is pressed, the servo moves in 45-degree increments. Starting from 0 degrees, the motor moves to 45, 90, 135, and finally 180 degrees. When the button is pressed after reaching 180 degrees, the servo resets to 0 degrees and the cycle repeats. The project involves using the Arduino to read the button input and control the servo motor based on the number of presses.
 
 ## Components
 
 - Arduino Uno
-- 
-- 
-- 
-- 
-
+- Positional micro servo
+- Button
+- Resistor
 
 > Project Status: concluded
-
 
 ## Installation Guide
 
@@ -45,7 +42,7 @@ To clone this repository to your local machine, follow these steps:
 2. **Clone Repository**: Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/HenriqueMelo2007/servo-motor-controller.git
 
 
 ## License
